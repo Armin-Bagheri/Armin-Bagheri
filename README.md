@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Armin-Bagheri
-- 👀 I’m interested in c# and web development
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning c#
 - 📫 How to reach me? armin.bagheri.dev@gmail.com
 
