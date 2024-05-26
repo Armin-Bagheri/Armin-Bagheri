@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Armin-Bagheri
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning C & Python
 - 📫 How to reach me? armin.bagheri.dev@gmail.com
 
 <!---
